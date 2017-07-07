@@ -1,0 +1,1 @@
+# appraisalguru-static
